@@ -32,9 +32,9 @@ This repository contains the code implementation of the paper **MDA-RSM: Multi-D
 
 This project implements a multi-directional adaptive remote sensing Mamba (MDA-RSM) for high-precision building extraction on large-scale datasets with linear computational complexity.
 
-![architecture](resources\architecture.png)
+![architecture](https://github.com/Joinzm/MDA-RSM/blob/main/resources/architecture.png)
 
-![mda-ss2d](resources\mda-ss2d.png)
+![mda-ss2d](https://github.com/Joinzm/MDA-RSM/blob/main/resources/mda-ss2d.png)
 
 > Main Contributions:
 >
