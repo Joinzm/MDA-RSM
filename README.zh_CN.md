@@ -32,9 +32,9 @@
 
 本项目实现了一种多方向自适应的遥感Mamba（MDA-RSM） ，用于在大规模数据集上进行线性复杂度的高精度建筑物提取。
 
-![architecture](resources\architecture.png)
+![architecture](https://github.com/Joinzm/MDA-RSM/blob/main/resources/architecture.png)
 
-![mda-ss2d](resources\mda-ss2d.png)
+![mda-ss2d](https://github.com/Joinzm/MDA-RSM/blob/main/resources/mda-ss2d.png)
 
 > 主要贡献：
 >
